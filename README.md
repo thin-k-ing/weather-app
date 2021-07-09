@@ -1,1 +1,2 @@
 # weather-app
+This is a weather app that can be used to gain access to weather conditions across the world in real time. It uses Open Weather API to do so which lists above 2 million cities all over the globe which is pretty neat. We just have to type the city into the search bar and its live. It also shows other parameters that give a good insight into the feel of the place such as, Humidity, Pressure, Feels like. Also, it shows 5 - day forecast thus, one can schedule their plans accordingly. :)
